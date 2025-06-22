@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./",             // Thư mục chứa file .ts
+    "outDir": "./dist",          // Thư mục chứa file .js sau khi build
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["./**/*.ts"],      // Biên dịch tất cả file .ts
+  "exclude": ["node_modules", "dist"]
+}
