@@ -16,15 +16,14 @@ Track your progress by checking off completed challenges:
 
 ### Challenge-02: Functions & Logic
 
-- [ ] 01-functions.ts
-- [ ] 02-type-inference.ts
-- [ ] 03-conditionals.ts
+- [✅] 01-functions.ts
 
 ### Challenge-03: Advanced Types
 
-- [ ] 01-union-types.ts
-- [ ] 02-type-aliases.ts
-- [ ] 03-literal-types.ts
-- [ ] 04-function-types.ts
-- [ ] 05-object-types.ts
-- [ ] 06-nullability.ts
+- [✅] 01-union-types.ts
+- [✅] 02-type-aliases.ts
+- [✅] 03-literal-types.ts
+- [✅] 04-function-types.ts
+- [✅] 05-object-types.ts
+- [✅] 06-literal-object-types.ts
+- [✅] 06-nullability.ts
